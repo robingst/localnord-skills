@@ -1,0 +1,9 @@
+{
+  "name": "localnord",
+  "version": "1.0.0",
+  "description": "Routines d'agence Google Business Profile avec le connecteur Localnord, et conseil GBP sans connecteur.",
+  "author": { "name": "Localnord", "email": "support@localnord.io", "url": "https://www.localnord.io" },
+  "homepage": "https://www.localnord.io",
+  "repository": "https://github.com/robingst/localnord-skills",
+  "keywords": ["google-business-profile", "local-seo", "agency", "mcp"]
+}

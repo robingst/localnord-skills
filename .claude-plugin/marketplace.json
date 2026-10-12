@@ -1,0 +1,17 @@
+{
+  "name": "localnord-skills",
+  "owner": { "name": "Localnord", "email": "support@localnord.io" },
+  "metadata": {
+    "description": "Skills Claude de Localnord pour les agences Google Business Profile."
+  },
+  "plugins": [
+    {
+      "name": "localnord",
+      "source": "./plugins/localnord",
+      "description": "Routines d'agence Google Business Profile (revue hebdo, avis, suivi client, prospection) avec le connecteur Localnord, et conseil GBP sans connecteur.",
+      "version": "1.0.0",
+      "author": { "name": "Localnord" },
+      "homepage": "https://www.localnord.io"
+    }
+  ]
+}

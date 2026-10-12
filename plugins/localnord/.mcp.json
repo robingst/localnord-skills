@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "localnord": {
+      "type": "http",
+      "url": "https://app.localnord.io/api/mcp/mcp"
+    }
+  }
+}
